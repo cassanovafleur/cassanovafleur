@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-- :Contact:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casanovafleur/)
+- :How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casanovafleur/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
