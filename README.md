@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1>
+<h1 align="center">
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- :Introduction: I am currently studying Artificial Intelligence at FPT University <img src="https://media.licdn.com/dms/image/D560BAQEiwK-nCtRsZQ/company-logo_200_200/0/1695107335683/fpt_university_logo?e=2147483647&v=beta&t=ubWG0kOtIRGAqmy0VW3rGWQEzwLNxi0DghsL1ehMlIo" width="30"> 
+- I am currently studying Artificial Intelligence at FPT University <img src="https://media.licdn.com/dms/image/D560BAQEiwK-nCtRsZQ/company-logo_200_200/0/1695107335683/fpt_university_logo?e=2147483647&v=beta&t=ubWG0kOtIRGAqmy0VW3rGWQEzwLNxi0DghsL1ehMlIo" width="30"> 
 
 
 
-- :How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casanovafleur/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casanovafleur/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
