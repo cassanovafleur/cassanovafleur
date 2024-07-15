@@ -26,6 +26,17 @@ Here are some ideas to get you started:
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2>
-  Hello, my name is Tran Ba Thanh. Currently I am studying Artificial Intelligence at FPT University.
-</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :woman_technologist: About Me :
+I am currently studying Artificial Intelligence at FPT University <img src="https://media.licdn.com/dms/image/D560BAQEiwK-nCtRsZQ/company-logo_200_200/0/1695107335683/fpt_university_logo?e=2147483647&v=beta&t=ubWG0kOtIRGAqmy0VW3rGWQEzwLNxi0DghsL1ehMlIo" width="30"> 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/casanovafleur/)
